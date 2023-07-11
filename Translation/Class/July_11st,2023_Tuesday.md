@@ -4,14 +4,14 @@
 
 ```sh
 1. Eu não tenho muita experiência nessa área/nesse campo.
-# I haven't much experience these area. (I don't have much experience in this area)
+# I haven't (got) much experience these area. (I don't have much experience in this area)
 
 2. Eu não tenho seu número de telefone.
 # I don't have your (phone number/ contact). 
-# Do you would like share with me, please? (Would like to share it with me, please?)
+# Do you would like share with me, please? (Would you like to share it with me, please?)
 
 3. Onde ela foi ontem?
-# Where she went yesterday?
+# Where did she go yesterday?
 ```
 
 
