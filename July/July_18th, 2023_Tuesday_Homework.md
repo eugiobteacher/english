@@ -37,13 +37,14 @@ They 'were dancing' when suddenly the music 'stopped'.
 
 ### #13
 ```sh
-The burglar 'breaked' into the house while They 'were sleeping' 
-# O ladrao invadiu a casa enquanto eles estavam dormindo. 
+The burglar 'breaked' into the house while They 'were sleeping 
+# O ladrao invadiu a casa enquanto eles estavam dormindo.
+(The burglar 'broke' into the house while they were sleeping.)
 ```
 
 ### #14
 ```sh
-He 'was cleaning' the floor when the neighbour 'came'.
+He 'was cleaning' the floor when the neighbor 'came'.
 # Eles estava limpando o chao quando vizinho veio. 
 ```
 
@@ -57,6 +58,7 @@ He 'was cleaning' the floor when the neighbour 'came'.
 ```sh
 I 'said' what they 'weren't hearing' because of the noise.
 # Eu disse que eles nao estavam ouvindo por causa do barulho.
+(I 'DIDN'T HEAR' what they 'WERE SAYING' because of the noise.)
 ```
 
 ### #17
@@ -68,7 +70,8 @@ When I 'saw' her, she 'was carrying' some plans.
 ### #18
 ```sh
 I 'was going' to the bank while my wife 'played' golf.
-# Eu estava indo ao banco enquanto minha esposa jogava golf. 
+# Eu estava indo ao banco enquanto minha esposa jogava golf.
+(I went to the bank while my wife 'was playing' golf.)
 ```
 
 ### #19
@@ -87,6 +90,7 @@ He 'was bringing' the wine when he 'sliped' over.
 ```sh
 What 'are you doing' when the fire 'breaked' out?
 # O que voce estava fazendo quando o incendio comecou?
+(What 'WERE' you doing when the fire 'BROKE' out?)
 ```
 
 
