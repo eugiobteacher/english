@@ -15,6 +15,7 @@ What 'were you doing' when the alarm clock 'went' off?
 ```sh
 While I 'was sitting' in a cafe my mobile 'rang'.
 # Enquanto eu sentado em um cafe meu celular tocou.
+(Why is 'in' red in this sentence?)
 ```
 
 ### #10
